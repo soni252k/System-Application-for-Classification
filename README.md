@@ -2,7 +2,7 @@
 
 This application was made in a group of two (me and https://github.com/Kaushiki333 ) as a part of our minor project in our third year of B.Tech. 
 
-It is capable of finding the result metrics of six very commmonly used classification techniques; and can also find the best classifier for any dataset.
+It is capable of finding the result metrics (like- accuracy, recall, precision, F1-score and confusion matrix) of six very commmonly used Classification techniques; and can also find the Best Classifier for any dataset.
 
 The algorithms include:
 1) Information Gain
