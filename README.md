@@ -1,6 +1,6 @@
 # System-Application-for-finding-best-classifier-and-results-of-different-classifiers
 
-This application was made in a group of two (me and https://github.com/Kaushiki333 ) as a part of our minor project in our third year of undergratuation. 
+This application was made in a group of two (me and https://github.com/Kaushiki333 ) as a part of our minor project in our third year of B.Tech. 
 
 It is capable of finding the result metrics of six very commmonly used classification techniques; and can also find the best classifier for any dataset.
 
